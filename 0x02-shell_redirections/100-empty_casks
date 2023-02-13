@@ -1,0 +1,2 @@
+#!/bin/bvash
+find . -empty | rev | cut -d '/' -f | rev
